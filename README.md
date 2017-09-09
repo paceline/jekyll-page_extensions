@@ -8,7 +8,17 @@ Adds various functionalities to pages in Jekyll:
 
 ## Installation
 
-Just copy the `jekyll_page-extensions.rb` file to your site's `_plugins` directory
+Add this line to your application's Gemfile:
+
+    gem 'jekyll-page_extensions'
+
+And then execute:
+
+    $ bundle
+
+Or install it yourself as:
+
+    $ gem install jekyll-page_extensions
 
 ## TODO
 
